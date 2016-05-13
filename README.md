@@ -12,4 +12,14 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 ## Crypto
 * [Crackstation hashing guide](https://crackstation.net/hashing-security.htm)
 * [Crypto mailing list](http://www.metzdowd.com/mailman/listinfo/cryptography)
-* 
+
+## Chrome Plugins
+* [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+* HTTPS Everywhere
+* BuiltWith Technology Profiler
+* ColorZilla
+* uBlock Origin
+
+## Firefox Plugins
+* FireFTP
+* SQLite Manager
