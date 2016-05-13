@@ -1,5 +1,5 @@
 # tools-mega-list
-A list of tools I've found useful
+A list of tools I've found useful.  Categories in no particular order at this moment.
 
 ## jQuery
 * Cheatsheets
@@ -8,3 +8,8 @@ A list of tools I've found useful
 
 ## Black Hat
 * [Hackback](http://pastebin.com/raw/0SNSvyjJ)
+
+## Crypto
+* [Crackstation hashing guide](https://crackstation.net/hashing-security.htm)
+* [Crypto mailing list](http://www.metzdowd.com/mailman/listinfo/cryptography)
+* 
