@@ -25,5 +25,9 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 * FireFTP
 * SQLite Manager
 
+## OS X Apps
+* [Dash - Documentation/API viewer](kapeli.com/dash)
+* Atom - Hackable text editor
+
 ## ToDo
 * https://exploit-exercises.com/
