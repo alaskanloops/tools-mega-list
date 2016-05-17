@@ -9,6 +9,7 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 ## Black Hat
 * [Hackback](http://pastebin.com/raw/0SNSvyjJ)
 * [Hack This Site](www.hackthissite.org)
+* [Armitage Manual](http://www.fastandeasyhacking.com/manual)
 
 ## Crypto
 * [Crackstation hashing guide](https://crackstation.net/hashing-security.htm)
