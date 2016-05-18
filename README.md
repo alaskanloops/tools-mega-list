@@ -30,5 +30,8 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 * [Dash - Documentation/API viewer](kapeli.com/dash)
 * Atom - Hackable text editor
 
+## VCS
+* [gitignore.io](https://www.gitignore.io/)
+
 ## ToDo
 * https://exploit-exercises.com/
