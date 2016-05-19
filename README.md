@@ -33,5 +33,8 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 ## VCS
 * [gitignore.io](https://www.gitignore.io/)
 
+## Beginner Tuts
+* http://jmcglone.com/guides/github-pages/
+
 ## ToDo
 * https://exploit-exercises.com/
