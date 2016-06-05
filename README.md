@@ -41,3 +41,6 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 
 ## ToDo
 * https://exploit-exercises.com/
+
+## AngularJS
+* [List of open source AngularJS projects to contribute to](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee#.fbd06q9r6)
