@@ -1,10 +1,11 @@
 # tools-mega-list
 A list of tools I've found useful.  Categories in no particular order at this moment.
 
-## jQuery
-* Cheatsheets
+## JavaScript, angularJS, jQuery, ect
+* jQuery Cheatsheets
   * https://oscarotero.com/jquery/
   * http://jqapi.ru/
+* [Dependencies](http://definitelytyped.org/)
 
 ## Black Hat
 * [Hackback](http://pastebin.com/raw/0SNSvyjJ)
@@ -48,3 +49,5 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 
 ## Developer Tools
 * [Plunker - Web Code Editor](http://plnkr.co/)
+* [Bower](https://bower.io/)
+* [Node Package Manager](https://www.npmjs.com/)
