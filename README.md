@@ -5,7 +5,8 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 * jQuery Cheatsheets
   * https://oscarotero.com/jquery/
   * http://jqapi.ru/
-* [Dependencies](http://definitelytyped.org/)
+* [JavaScript Library Dependencies (useful with bower)](http://definitelytyped.org/)
+* [AngularCLI](https://cli.angular.io/reference.pdf)
 
 ## Black Hat
 * [Hackback](http://pastebin.com/raw/0SNSvyjJ)
