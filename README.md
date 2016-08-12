@@ -39,8 +39,8 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 * http://jmcglone.com/guides/github-pages/
 
 ## Education
-* [Udemy](udemy.com)
-* [Pluralsight](pluralsight.com)
+* [Udemy](https://www.udemy.com)
+* [Pluralsight](https://pluralsight.com)
 * [Coursera](coursera.com)
 * [Microsoft Virtual Academy](www.mva.microsoft.com)
 
