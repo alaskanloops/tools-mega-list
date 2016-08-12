@@ -42,7 +42,7 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 * [Udemy](udemy.com)
 * [Pluralsight](pluralsight.com)
 * [Coursera](coursera.com)
-* [Microsoft Virtual Academy](mva.microsoft.com)
+* [Microsoft Virtual Academy](www.mva.microsoft.com)
 
 ## Assets
 * [Free High Res Images](https://unsplash.com/)
