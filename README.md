@@ -41,8 +41,8 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 ## Education
 * [Udemy](https://www.udemy.com)
 * [Pluralsight](https://pluralsight.com)
-* [Coursera](coursera.com)
-* [Microsoft Virtual Academy](www.mva.microsoft.com)
+* [Coursera](https://coursera.com)
+* [Microsoft Virtual Academy](https://mva.microsoft.com)
 
 ## Assets
 * [Free High Res Images](https://unsplash.com/)
