@@ -1,6 +1,16 @@
 # tools-mega-list
 A list of tools I've found useful.  Categories in no particular order at this moment.
 
+## DotNet
+* [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
+* [DevU](https://www.devu.com/tips/)
+
+## Xamarin
+* [Xamarin University](https://university.xamarin.com/self-guided)
+
+## Bots
+* [Microsoft Bot Framework](https://dev.botframework.com/)
+
 ## JavaScript, angularJS, jQuery, ect
 * jQuery Cheatsheets
   * https://oscarotero.com/jquery/
