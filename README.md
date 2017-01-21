@@ -11,6 +11,11 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 ## Bots
 * [Microsoft Bot Framework](https://dev.botframework.com/)
 
+## Design Paterns / OO / Architecture
+* [Unit of Work](https://www.codeproject.com/articles/581487/unit-of-work-design-pattern)
+* [Layered Architecture Code Examples](https://layersample.codeplex.com/)
+* [University of Helsinki OO Course ](http://mooc.fi/courses/2013/programming-part-2/)
+
 ## JavaScript, angularJS, jQuery, ect
 * jQuery Cheatsheets
   * https://oscarotero.com/jquery/
