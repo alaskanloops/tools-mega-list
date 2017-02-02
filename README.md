@@ -23,10 +23,11 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 * [JavaScript Library Dependencies (useful with bower)](http://definitelytyped.org/)
 * [AngularCLI](https://cli.angular.io/reference.pdf)
 
-## Black Hat
+## White/Grey/Black Hat
 * [Hackback](http://pastebin.com/raw/0SNSvyjJ)
 * [Hack This Site](www.hackthissite.org)
 * [Armitage Manual](http://www.fastandeasyhacking.com/manual)
+* [Scanning Scripts](https://zapbot.github.io/zap-mgmt-scripts/index.html)
 
 ## Crypto
 * [Crackstation hashing guide](https://crackstation.net/hashing-security.htm)
