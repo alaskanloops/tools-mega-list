@@ -7,6 +7,7 @@ A list of tools I've found useful.  Categories in no particular order at this mo
 
 ## Xamarin
 * [Xamarin University](https://university.xamarin.com/self-guided)
+* [Xamarin Workbooks](https://developer.xamarin.com/guides/cross-platform/workbooks/)
 
 ## Bots
 * [Microsoft Bot Framework](https://dev.botframework.com/)
